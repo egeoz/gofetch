@@ -1,4 +1,4 @@
-# Voltorb: Basic Undervolting GUI for Linux
+# Gofetch
 <img src="https://github.com/egeoz/gofetch/blob/master/screenshot.png" alt="Gofetch" width="469" height="136">
 
 #### Features:
