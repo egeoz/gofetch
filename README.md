@@ -10,7 +10,7 @@
 
 #### Quick Installation
 ```
-curl https://github.com/egeoz/gofetch/raw/master/gofetch -o /tmp/gofetch
+curl https://raw.githubusercontent.com/egeoz/gofetch/master/gofetch -o /tmp/gofetch
 sudo mv /tmp/gofetch /usr/local/bin
 sudo chmod +x /usr/local/bin/gofetch	
 ```
