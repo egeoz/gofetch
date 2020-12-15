@@ -4,6 +4,7 @@
 #### Features:
 - Much faster compared to the alternatives
 `gofetch  0,01s user 0,03s system 108% cpu 0,043 total`
+- Can disable some sections. Do `gofetch -h` for more information.
 
 #### Requirements
 - A Linux based system 
